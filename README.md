@@ -1,6 +1,9 @@
 # AzureFunction-01
 2021 02 27 MV: a simple example of an Azure Function to be used for training... 
 
+## REFERENCE URLS
+- https://www.youtube.com/watch?v=Fb5pO3-62Nc
+
 ## JOURNAL
 ### 2021 02 27 MV
 - ADDED this line from github.com web editor... 
